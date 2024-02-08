@@ -91,4 +91,4 @@ Remember, the actual function call and package import might need to be adjusted 
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the [MIT License](LICENSE).
