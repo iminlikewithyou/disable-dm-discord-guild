@@ -10,7 +10,7 @@ To install and use this package, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/wbnns/disable-dm-discord-guild.git
    ```
 2. Navigate to the cloned directory:
    ```bash
