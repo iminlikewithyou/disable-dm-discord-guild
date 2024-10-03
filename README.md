@@ -18,7 +18,7 @@ To install and use this package, follow these steps:
    ```
 3. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -e .
    ```
 
 ## Configuration
